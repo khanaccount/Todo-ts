@@ -1,8 +1,8 @@
-#stack
--ts
--vite
--sass
--zustand
+# stack
+- ts
+- vite
+- sass
+- zustand
 
 
 # React + TypeScript + Vite
